@@ -28,7 +28,4 @@ Follow these instructions to get a copy of the project up and running on your lo
  1. Start the development server:
    npm start
 
- 2. Open your browser and navigate to http://localhost:3000 to view the application.
-=======
-# BasketBall-Player-Card
->>>>>>> 61a10d0a22086f7f948a019e7c1df51c909f43de
+ 2. Open your browser and navigate to http://localhost:3000 to view the application
