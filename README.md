@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Basketball Player Card React Component
 
 This project implements a React component called `BasketballPlayerCard` that displays information about a basketball player, including their name, image, position, and statistics.
